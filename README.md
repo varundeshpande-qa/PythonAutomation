@@ -36,9 +36,9 @@ pytest -v
 ## 📌 Note
 These scripts represent practical learning exercises across multiple 
 demo applications. For a structured framework with POM architecture, 
-see [playwright-automation-framework](https://github.com/VarunDQa/playwright-automation-framework).
+see [playwright-automation-framework](https://github.com/varundeshpande-qa/playwright-automation-framework).
 
 ---
 
 ## 👨‍💻 Author
-**Varun Deshpande** — QA Engineer | 7+ years
+**Varun Deshpande** — QA Engineer | 8+ years
